@@ -7,18 +7,18 @@
 2. Проанализировать структуру сайта.
 
 ### Header
-![header](/images/image.png)
+![header](image.png)
 
 ### Content
-![content](/images/image-1.png)
+![content](image-1.png)
 
 ### Footer
-![footer](/images/image-2.png)
+![footer](image-2.png)
 
 3. Внести несколько изменений.
 
-![diff](/images/image-3.png)
+![diff](image-3.png)
 
 4. Создать прототим низкой детализации.
 
-![maket](/images/image-4.png)
+![maket](image-4.png)
